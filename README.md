@@ -1,8 +1,6 @@
 # ts-solid
-Project to apply S.O.L.I.D
+Projeto prático para aplicar conceitos do SOLID com o Typescript
 
-## 🔶 Diagram
-<img 
-  src="./public/diagram.png"
-  alt="Diagrama"
-/>
+## 🧾 Anotações
+As minhas anotações e repostas para as perguntas, estão nesse [arquivo](caderno.md).
+
